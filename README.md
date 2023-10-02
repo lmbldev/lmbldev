@@ -21,3 +21,13 @@
   <a href = "mailto:lmbldev23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-mello-803667225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
+
+### Alguns projetos abaixo:
+
+https://lmbldev.github.io/Projeto-X-MEN/
+
+<br>
+
+https://lmbldev.github.io/Projeto-One-Piece/
